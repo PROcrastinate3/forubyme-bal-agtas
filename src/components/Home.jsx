@@ -8,7 +8,7 @@ function Home() {
           <img src="/pic1.png" alt="" />
         </div>
         <div className="flex justify-center mt-3">
-          <h1 className="text-4xl font-calistoga">Mj Massalang</h1>
+          <h1 className="text-4xl font-calistoga">John Mark Balagtas</h1>
         </div>
         <div className="flex justify-center">
           <h3 className="text-lg ">A Designer</h3>
