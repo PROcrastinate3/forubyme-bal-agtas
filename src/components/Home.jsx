@@ -11,7 +11,7 @@ function Home() {
           <h1 className="text-4xl font-calistoga">John Mark Balagtas</h1>
         </div>
         <div className="flex justify-center">
-          <h3 className="text-lg ">A Designer</h3>
+          <h3 className="text-lg ">Full Stack Developer</h3>
         </div>
         <div className="flex justify-center px-8">
           <p className="text-sm text-center">
