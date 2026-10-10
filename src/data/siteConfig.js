@@ -13,7 +13,7 @@ export const profile = {
 
 // Just the username / handle — NOT the full link.
 export const socials = {
-  facebook: "", // facebook.com/<this>        e.g. "mj.massalang"
+  facebook: "markybalagtas.57", // facebook.com/<this>        e.g. "mj.massalang"
   instagram: "", // instagram.com/<this>      e.g. "mj.designs"
   github: "", // github.com/<this>            e.g. "mjmassalang"
   messenger: "", // m.me/<this> (usually same as the Facebook username)
