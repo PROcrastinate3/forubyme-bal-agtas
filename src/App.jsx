@@ -8,7 +8,7 @@ import SocMed from "./components/SocMed";
 function App() {
   return (
     <>
-      <div className="">
+      <div className="px-1">
         <Nav />
         <Home />
         <Skills />
