@@ -7,7 +7,7 @@ function Contact() {
       <div className="flex-col justify-center items-center w-full max-w-110">
         <div className="flex justify-center">
           <div className=" border-2 px-15 rounded-tl-3xl rounded-br-3xl py-1 bg-[#D9D9D9]">
-            <h2 className="text-2xl font-calistoga ">Skills/Services</h2>
+            <h2 className="text-2xl font-calistoga ">Contact Details</h2>
           </div>
         </div>
 
