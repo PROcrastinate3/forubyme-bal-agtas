@@ -29,11 +29,10 @@ function Contact() {
               <Phone className="w-16 h-16" />
             </div>
             <div className="flex justify-center text-xs">
-              <h3>Email Address</h3>
+              <h3>Mobile Number</h3>
             </div>
             <div className="text-center flex flex-col font-semibold text-lg">
-              <h2 className="">mjmassalangg24</h2>
-              <h2>@gmail.com</h2>
+              <h2 className="">09458556633</h2>
             </div>
           </div>
         </div>
